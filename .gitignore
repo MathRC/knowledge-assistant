@@ -1,0 +1,23 @@
+# Ignore user-specified folders
+old_stuff/
+
+# Ignore Git and VS Code directories
+.git/
+.vscode/
+
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files containing secrets
+.env

@@ -1,0 +1,195 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "When is it correct to use square brackets?",
+      "ground_truth": [
+        {
+          "expected_text": "2.21.\nSquare brackets. These are used to make editorial insertions in quoted material.\n‘They [the members of the committee] voted in favour of the proposal.’\nThey may also be used in administrative drafting to indicate optional passages\nor those still open to discussion.\nIn mathematical formulae (but not in text), square brackets are used to enclose\nround brackets:\n7[4ab – (2nm × 6bm) × nm] + 7a = 1240\nWhen translating, also use square brackets to insert translations or explanations\nafter names or titles left in the original language.",
+          "section_title": "Brackets",
+          "session_number": 2.21,
+          "page_number": 10,
+          "relevance": "Primary"
+        },
+        {
+          "expected_text": "2.19.\nRound brackets. Also known as parentheses, round brackets are used much like\ncommas in 2.13 above, except that the text they contain has a lower emphasis.\nThey are often used to expand on or explain the preceding item in the text:\nARZOD (an employment service) is based in Ruritania.\nNever put a comma before the opening bracket. If a whole sentence is in\nbrackets, the full stop must be placed before the closing bracket. Do not forget\nthe full stop at the end of the preceding sentence as well.\nA second set of round brackets (not square brackets) can be used to set off text\nthat itself contains text in brackets:\nThe conclusions of the analysis (in particular regarding fair trade, the\nenvironment and transport (including green cars)) highlighted the following:\nHowever, to avoid confusion, it may be better to use dashes (see 2.17):\nThe conclusions of the analysis – in particular regarding fair trade, the\nenvironment and transport (including green cars) – highlighted the following:",
+          "section_title": "Brackets",
+          "session_number": 2.19,
+          "page_number": 10,
+          "relevance": "Primary"
+        },
+        {
+          "expected_text": "1.2.\nQuoting text. When directly quoting a piece of text or citing the title of a\ndocument, you should reproduce the original rather than following the\nconventions set out below. However, you should make it clear you are quoting\ntext by putting it in quotation marks or italics or setting it off in some other\nway. If necessary, you may mark errors with ‘[sic]’ or insert missing text in\nsquare brackets.",
+          "section_title": "General",
+          "session_number": 1.2,
+          "page_number": 4,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "2.3.\nEllipsis. An ellipsis1 is three points indicating an omission in the text. If an\nellipsis falls at the end of a sentence, there is no final full stop. However, if\nfollowed by another punctuation mark (e.g. question mark, colon, semicolon or\nquotation mark), the punctuation mark should be closed up to the ellipsis.\nWhen placed at the beginning of the text, it is followed by a normal space.\nWhen replacing one or more words in the middle of a sentence, it is preceded\nby a hard space2 and followed by a normal space.\nWhen replacing one or more words at the end of a sentence, it is preceded by a\nhard space2.\nThe points are not enclosed in brackets:\n‘The objectives of the Union shall be achieved … while respecting the principle\nof subsidiarity.’\nHowever, where a line or paragraph is omitted and replaced by an ellipsis, the\nellipsis should be placed within square brackets on a separate line.\nDo not use an ellipsis to replace or reinforce the word ‘etc.’",
+          "section_title": "Full stop",
+          "session_number": 2.3,
+          "page_number": 5,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "19.8.\nSpecial cases. There are a small number of exceptions to the standardised\nnumbering system.\nThe following documents are not numbered:\n♦ international agreements and information on the date of their entry into\nforce\n♦ corrigenda\nThe following documents have two numbers: one assigned by the Publications\nOffice (in the standardised format), and one assigned by the author:\n♦ ECB legal acts and instruments:\nDecision (EU) 2015/5 of the European Central Bank of 19 November 2014 on\nthe implementation of the asset-backed securities purchase programme\n(ECB/2014/45)\n♦ Political and Security Committee decisions:\nPolitical and Security Committee Decision (CFSP) 2015/102 of 20 January 2015\non the appointment of the EU Force Commander for the European Union\nmilitary operation to contribute to the deterrence, prevention and repression of\nacts of piracy and armed robbery off the Somali coast (Atalanta) and repealing\nDecision Atalanta/4/2014 (ATALANTA/1/2015)\nThe number assigned to the following documents has no domain name and is\nplaced at the end of the title in square brackets:\n♦ acts adopted by bodies created by international agreements:\nDecision No 1/2016 of the ACP-EU Committee of Ambassadors ... [2016/1]\n♦ acts adopted within the framework of the European Economic Area (EEA):\nDecision of the EEA Joint Committee No 153/2014 of 9 July 2014 amending\nAnnex X (Services in general) to the EEA Agreement [2015/88]\n♦ acts adopted within the framework of the European Free Trade Association\n(EFTA):\nAnnex X (Services in general) to the EEA Agreement [2015/88]\n♦ acts adopted within the framework of the European Free Trade Association\n(EFTA):\nEFTA Surveillance Authority Decision No 302/14/COL of 16 July 2014\namending for the ninety-ninth time the procedural and substantive rules in the\nfield of State aid by modifying certain State aid Guidelines [2015/95]\n♦ regulations of the United Nations Economic Commission for Europe\n(UN/ECE):\nRegulation No 78 of the Economic Commission for Europe of the United\nNations (UNECE) – Uniform provisions concerning the approval of vehicles of\ncategories L1, L2, L3, L4 and L5 with regard to braking [2015/145]",
+          "section_title": "Titles and numbering",
+          "session_number": 19.8,
+          "page_number": 85,
+          "relevance": "Tertiary"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What’s the proper usage of an en dash?",
+      "ground_truth": [
+        {
+          "expected_text": "2.17.\nShort (or en) dashes may be used to punctuate a sentence instead of commas\n(see 2.13) or round brackets (see 2.19). They increase the contrast or emphasis\nof the text thus set off. However, use sparingly; use no more than one in a\nsentence, or – if used with inserted phrases – one set of paired dashes. Avoid\nusing dashes in legislation.\nWhen citing titles of publications or documents, use a short dash to separate the\ntitle from the subtitle (see also 4.11 on titles of publications).\nEither en dashes or hyphens may be used to join related or contrasting pairs\n(see 3.29) or to replace ‘to’ in a range (see 3.30).\nIn Microsoft Word, the keyboard shortcut for the en dash is Ctrl + - (on the\nnumeric keypad).",
+          "section_title": "Dashes",
+          "session_number": 2.17,
+          "page_number": 9,
+          "relevance": "Primary"
+        },
+        {
+          "expected_text": "3.30.\nNames. Individual double-barrelled surnames are usually conjoined by a\nhyphen: Maurice Merleau-Ponty, Norman St John-Stevas, Catherine Zeta-\nJones. Note, however, that in certain cases they are unhyphenated: Iain Duncan\nSmith, Andrew Lloyd Webber.\nSurnames of joint authors, discoverers, inventors, etc. are conjoined by an en\ndash: Lennon–McCartney songbook, Creutzfeldt–Jakob disease, Geiger–\nMüller tube.\nIn compounds formed from a hyphenated surname and an unhyphenated one, the distinction between hyphen and en dash should be maintained: Tatton-Brown–Rahman syndrome, Lloyd-Jones–Scargill talks.",
+          "section_title": "Compound words and hyphens",
+          "session_number": 3.30,
+          "page_number": 22,
+          "relevance": "Secondary"
+        },
+        {
+          "expected_text": "6.1.\nFigures or words?\nWhen words should be used\nAs a rule, use words for the numbers one to nine:\nThey have three children: two girls and one boy.\nIn January 1966, the six Member States reached an agreement.\nNote that the numbers one to nine (including ordinals) are also written out\nwhen preceding all units of time: one day, four months, six years, two decades,\nthree centuries, four-day week, first day of the conference. Units of time in a\nrange denoted by an en dash or a hyphen are an exception to this rule (see\nbelow).\nThe rule that numbers greater than nine are written as figures is not always\nfollowed in names or titles, e.g. the Thirty Years War, One Thousand and One\nNights.\nWhen figures should be used\nUse figures for numbers greater than or equal to 10, and in the following cases:\n— for all numbers on web pages;\n— for all numbers containing a decimal point (or a decimal comma in the\nOfficial Journal; see 6.10):\n1.0, 5.5\n— for all whole numbers where at least one number in a range not conjoined\nby an en dash or a hyphen or in a list of items in running text is 10 or\nabove:\n9 to 11 not nine to 11\nThe term of office of 13 Judges and 5 Advocates General of the Court of Justice\nwill end on 6 October 2024.\n— when presenting statistics in which two or more numbers are compared\n(‘3 new officials were appointed in 2015, 6 in 2016 and …’);\n— for votes (‘12 delegations were in favour, 7 against, and 6 abstained’);\n— for ranges denoted by an en dash or hyphen (see Ranges, 6.15-6.16);\n— when citing serial numbers, except when quoting a source that does\notherwise (Part One of the TFEU);\n— with units of measurement, irrespective of whether the units are denoted by\nsymbols or abbreviations or are spelled out:\nEUR 50, 250 kW, 205 µg, 5 °C\n250 kilowatts, 500 metres\nWhen either figures or words can be used\nNumbers in the hundreds or thousands may be presented either as figures:\n400, EUR 3 000, 9 500\nor as words:\nfour hundred, three thousand euro, nine thousand five hundred\nbut not as a mixture of the two (i.e. do not write ‘4 hundred’, ‘EUR 3 thousand’\nor ‘9 thousand 5 hundred’).\nThe words ‘million’, ‘billion’ and ‘trillion’, however, may be combined with\neither words or figures, or numbers in millions, billions or trillions can be\nwritten entirely in figures:\nthree million or 3 million or 3 000 000, four billion or 4 billion or\n4 000 000 000, five trillion or 5 trillion or 5 000 000 000 000\nNote, however, that monetary amounts in the Official Journal must always be\nwritten entirely in figures, and not as a combination of words and figures (see\nSection 7.3.3 of the Interinstitutional Style Guide).\nWhen two numbers are adjacent, spell one of them out:\n90 fifty-gram weights, seventy 25-cent stamps\nSimilarly, where a sentence combines two sets of different figures, it is often\nclearer to use words for one and figures for the other:\nTwelve of the children were over 10 and one was 9.",
+          "section_title": "Writing out numbers",
+          "session_number": 6.1,
+          "page_number": 36,
+          "relevance": "Secondary"
+        },
+        {
+          "expected_text": "6.16.\nAbbreviated form. When a range is indicated by an en dash or hyphen, do not\nrepeat the symbol or multiple if they do not change and close up the en dash or\nhyphen between the figures:\n€20–30 million, 10–70 °C\nIf the symbol or multiple changes, however, leave a blank space on either side\nof the en dash or hyphen:\n100 kW – 40 MW",
+          "section_title": "Ranges",
+          "session_number": 6.16,
+          "page_number": 40,
+          "relevance": "Secondary"
+        },
+        {
+          "expected_text": "6.21.\nTime spans. Use a closed-up en dash or hyphen (see 3.30) for year ranges:\n1939–1945, 2015–2021\nbut in legislative texts, use ‘to’ rather than an en dash or hyphen (2015 to\n2021).\nThe word ‘inclusive’ is not added after the date, as it is superfluous in all\nexpressions of time.\nRemember, too, that 2015/2016 = one year: marketing year, financial year,\nacademic year (see 2.38).\nNote:\nfrom 2015 to 2016 (not: from 2015-2016)\nbetween 2015 and 2020 (not: between 2015-2020)\n1 May 2018 to 30 April 2019 (preferable to: 1 May 2018 – 30 April 2019)",
+          "section_title": "Dates and times",
+          "session_number": 6.21,
+          "page_number": 41,
+          "relevance": "Secondary"
+        },
+        {
+          "expected_text": "2.38.\nThe forward slash may be used to mean ‘per’ (km/h) and in fractions (19/100).\nMarketing years, financial years, and any other 12-month periods that do not\ncoincide with calendar years are also denoted by a forward slash, e.g.\n2012/2013, which is 12 months, rather than by an en dash or hyphen, e.g.\n2015–2016, which means two years (see also 6.21).\nThe forward slash is often used to give alternatives, as in ‘and/or’ and\n‘yes/no/maybe’. It is closed up when separating single words, but is written\nwith a space either side when one or more of the alternatives is a compound\nterm, e.g.:\nBrussels/Luxembourg\nbut\npolice car / fire engine / ambulance",
+          "section_title": "Forward slash",
+          "session_number": 2.38,
+          "page_number": 13,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "3.29.\nRelated or contrasting pairs. Either en dashes or hyphens are used to join\nrelated or contrasting pairs. Typically, a dash or hyphen used in this way serves\nto replace either a preposition such as ‘to’ or the conjunction ‘and’ (see also\n2.17 and 2.18 on dashes):\nthe Brussels–Paris route / the Brussels-Paris route\na current–voltage graph / a current-voltage graph\nthe height–depth ratio / the height-depth ratio\na cost–benefit analysis / a cost-benefit analysis\na love–hate relationship / a love-hate relationship",
+          "section_title": "Compound words and hyphens",
+          "session_number": 3.29,
+          "page_number": 22,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "3.31.\nRanges. Either en dashes or hyphens can be used to replace ‘to’ in a range,\ne.g. 2015–2019 (see also 6.21 on time spans).",
+          "section_title": "Compound words and hyphens",
+          "session_number": 3.31,
+          "page_number": 22,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "7.13.\nMathematical symbols. Always use the correct character for mathematical\nsymbols. For example, do not use an en dash as a minus sign1 or a letter ‘x’ as\na multiplication sign2, as these can make equations inaccessible to people using\nscreen readers.\nThere should be a hard space1 between the symbol and the number, thus:\n10 ÷ 5 = 2, and\n10 − 11 = −1.\nThe minus sign should normally be followed by a hard space1 (see Section 6.4\nof the Interinstitutional Style Guide), but when expressing a negative value in a\nmathematical equation, it should be closed up to the following figure to avoid\nconfusion (as in the example above).",
+          "section_title": "Mathematical symbols",
+          "session_number": 7.13,
+          "page_number": 47,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "7.17.\nRanges. Use a closed-up en dash or hyphen to signify a range (e.g. 10–12%).\nNote the remark concerning Italian usage in 7.16. See also 2.17 and 2.18 on\ndashes.",
+          "section_title": "Mathematical symbols",
+          "session_number": 7.17,
+          "page_number": 48,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "13.6.\nCiting EU documents. Italicise the titles of white and green papers. Write White\nPaper or Green Paper with initial capitals only if it forms part of the title.\nThe Green Paper on Innovation\nIf the title consists of a main title and a subtitle (appearing on a separate line on\nthe title page), separate them with an en dash. Use initial capitals on the first\nand all significant words in the main title and on the first word in the subtitle.\nLaunch straight into the italicised title: do not introduce it with ‘on’,\n‘concerning’, ‘entitled’, etc.\nIn the white paper Growth, Competitiveness, Employment – The challenges and\nways forward into the twenty-first century, the Commission set out a strategy …\nThe white paper Growth, Competitiveness, Employment was the first …\nIn Growth, Competitiveness, Employment, on the other hand, the Commission set\nin motion … [this form might work where the white paper had already been\nmentioned, for example, or in an enumeration]\nThe green paper Towards Fair and Efficient Pricing in Transport – Policy\noptions for internalising the external costs of transport in the European Union\nDo the same with the titles of other policy statements and the like that are\npublished in their own right:\nthe communication An Industrial Competitiveness Policy for the European\nUnion [published as Bull. Suppl. 3/94]\nthe communication Agenda 2000: For a stronger and wider Union [when the\nreference is to the title of the document, which was published in Bull.\nSuppl. 5/97; but of course we would probably say ‘an Agenda 2000 priority’ for\nexample]\nIf a policy statement has a title, but has not as far as you know been published,\nput the title in quotation marks:\nthe communication ‘A European Strategy for Encouraging Local Development\nand Employment Initiatives’ [this appeared in OJ C 265, 12.10.1995, and its\ntitle is cast like the title of a book, but it does not seem to have been published in\nits own right]\n‘Communications’ that are not policy statements, such as the announcements\nwhich regularly appear in the Official Journal (OJ), get no italics, quotation\nmarks, or special capitalisation:\nthe Commission communication in the framework of the implementation of\nCouncil Directive 89/686/EEC of 21 December 1989 in relation to personal\nprotective equipment, as amended by Council Directives 93/68/EEC, 93/95/EEC\nand 96/58/EC [OJ C 180, 14.6.1997]",
+          "section_title": "Footnotes, citations and references",
+          "session_number": 13.6,
+          "page_number": 65,
+          "relevance": "Tertiary"
+        }
+      ]
+    },
+        {
+      "id": 3,
+      "question": "Which spelling is correct: Rhein or Rhin?",
+      "ground_truth": [
+        {
+          "expected_text": "5.22.\nRivers. Use the forms Meuse (Maas only if the context is solely Flanders or the\nNetherlands) and Moselle (Mosel only if the context is solely Germany). Write\nRhine for Rhein, Rhin, and Rijn, and Rhineland for Rheinland. Also: Oder for\nOdra (Polish and Czech); Tiber for Tevere; Tagus for Tajo/Tejo. Note that the\nriver called the Labe in Czech is known as the Elbe in English.\nIf included at all, the word ‘river’ normally precedes the proper name (the\nRiver Thames), unless it is regarded as an integral part of the name (the Yellow\nRiver). In either case, it takes a capital letter.",
+          "section_title": "Geographical names",
+          "session_number": 5.22,
+          "page_number": 34,
+          "relevance": "Primary"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Is it better to use the symbol '*' or 'x' for multiplication?",
+      "ground_truth": [
+        {
+          "expected_text": "7.15.\nMultiplication sign. Change a point or a raised dot used as a multiplication sign\nto × or *, e.g. 2.6 · 1018 becomes 2.6 × 1018 or 2.6 * 1018. A point used in an\nalgebraic expression can be omitted, e.g. 2·A = 2·π·r2 can be written 2A = 2πr2.\nNote, however, that a raised dot can have other meanings too (see Wikipedia).",
+          "section_title": "Mathematical symbols",
+          "session_number": 7.15,
+          "page_number": 48,
+          "relevance": "Primary"
+        },
+        {
+          "expected_text": "7.13.\nMathematical symbols. Always use the correct character for mathematical\nsymbols. For example, do not use an en dash as a minus sign1 or a letter ‘x’ as\na multiplication sign2, as these can make equations inaccessible to people using\nscreen readers.\nThere should be a hard space1 between the symbol and the number, thus:\n10 ÷ 5 = 2, and\n10 − 11 = −1.\nThe minus sign should normally be followed by a hard space1 (see Section 6.4\nof the Interinstitutional Style Guide), but when expressing a negative value in a\nmathematical equation, it should be closed up to the following figure to avoid\nconfusion (as in the example above).",
+          "section_title": "Mathematical symbols",
+          "session_number": 7.13,
+          "page_number": 47,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "7.14.\nForeign-language conventions. Remember that languages may have different\nconventions as regards their use of mathematical symbols, especially those for\nmultiplication, division, and subtraction.\nMany mathematical symbols also have several different meanings according to\nthe context.",
+          "section_title": "Mathematical symbols",
+          "session_number": 7.14,
+          "page_number": 48,
+          "relevance": "Tertiary"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Is there a space before or after suspension points?",
+      "ground_truth": [
+        {
+          "expected_text": "2.3.\nEllipsis. An ellipsis1 is three points indicating an omission in the text. If an\nellipsis falls at the end of a sentence, there is no final full stop. However, if\nfollowed by another punctuation mark (e.g. question mark, colon, semicolon or\nquotation mark), the punctuation mark should be closed up to the ellipsis.\nWhen placed at the beginning of the text, it is followed by a normal space.\nWhen replacing one or more words in the middle of a sentence, it is preceded\nby a hard space2 and followed by a normal space.\nWhen replacing one or more words at the end of a sentence, it is preceded by a\nhard space2.\nThe points are not enclosed in brackets:\n‘The objectives of the Union shall be achieved … while respecting the principle\nof subsidiarity.’\nHowever, where a line or paragraph is omitted and replaced by an ellipsis, the\nellipsis should be placed within square brackets on a separate line.\nDo not use an ellipsis to replace or reinforce the word ‘etc.’",
+          "section_title": "Full stop",
+          "session_number": 2.3,
+          "page_number": 5,
+          "relevance": "Primary"
+        },
+        {
+          "expected_text": "2.1.\nThe punctuation in an English text must follow the rules and conventions for\nEnglish, which often differ from those applying to other languages. Note in\nparticular that:\n♦ punctuation marks in English are always – apart from dashes (see 2.17) and\nellipsis points (see 2.3) – closed up to the preceding word, letter or number;\n♦ stops (. ? ! : ;) are always followed by only a single (not a double) space.",
+          "section_title": "Punctuation",
+          "session_number": 2.1,
+          "page_number": 4,
+          "relevance": "Tertiary"
+        },
+        {
+          "expected_text": "2.2.\nA full stop marks the end of a sentence. All footnotes end with a full stop. Do\nnot use a full stop at the end of a heading.\nNo further full stop is required if a sentence ends with an ellipsis (…), with an\nabbreviation that takes a point (e.g. ‘etc.’) or with a quotation complete in itself\nthat ends in a full stop, question mark or exclamation mark before the closing\nquote:\nWinston Churchill said: ‘A pessimist sees the difficulty in every opportunity; an\noptimist sees the opportunity in every difficulty.’\nTruncations (in which the end of the word is deleted) are followed by a point\n(for example Co., Art., Chap.), but contractions (in which the middle of the\nword is removed) are not (for example Dr, Ms, Ltd). See also 7.2.",
+          "section_title": "Full stop",
+          "session_number": 2.2,
+          "page_number": 4,
+          "relevance": "Tertiary"
+        }
+      ]
+    }
+  ]
+}
