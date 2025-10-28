@@ -15,13 +15,14 @@ services:
       CLUSTER_HOSTNAME: 'node1'
 
   rag-app:
-    build: .
+    image: 340391544009.dkr.ecr.us-east-1.amazonaws.com/rag-knowledge-assistant:latest
     ports:
       - "8501:8501"
     env_file:
       - .env
     depends_on:
       - weaviate
+    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 volumes:
   weaviate_data:
