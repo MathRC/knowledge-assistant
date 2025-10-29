@@ -4,8 +4,8 @@ app.py
 Streamlit web application for a RAG-based knowledge assistant that answers queries
 about the European Commission's English Style Guide.
 
-Connects to Weaviate for retrieval, uses BAAI/bge-large-en-v1.5 for embeddings,
-and Claude 3 Sonnet (via Amazon Bedrock) for response generation.
+Uses BAAI/bge-large-en-v1.5 to embed user queries, retrieves relevant context
+from a Weaviate vector database, and generates responses using Claude 3 Sonnet via Amazon Bedrock.
 """
 
 import streamlit as st
