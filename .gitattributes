@@ -1,8 +1,0 @@
-# Ensure binary files are never altered
-*.pdf binary
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-*.svg binary
-*.ico binary
