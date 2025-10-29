@@ -13,16 +13,17 @@ services:
       DEFAULT_VECTORIZER_MODULE: 'none'
       ENABLE_MODULES: ''
       CLUSTER_HOSTNAME: 'node1'
-
+  
   rag-app:
-    image: 340391544009.dkr.ecr.us-east-1.amazonaws.com/rag-knowledge-assistant:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
       - "8501:8501"
     env_file:
       - .env
     depends_on:
       - weaviate
-    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 volumes:
   weaviate_data:
