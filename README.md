@@ -1,4 +1,11 @@
-# From PDF to Precise Answers: A RAG Knowledge Assistant for Translators
+<h1 align="center">From PDF to Precise Answers: <br>
+A RAG Knowledge Assistant for Translators</h1>
+
+<br>
+
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/MathRC/knowledge-assistant)](https://github.com/MathRC/knowledge-assistant)
+[![License](https://img.shields.io/github/license/MathRC/knowledge-assistant)](https://github.com/MathRC/knowledge-assistant/blob/main/LICENSE.txt)
+[![Jupyter Notebooks](https://img.shields.io/badge/Notebooks-RAG%20Evaluation%20&%20Tuning-orange)](./notebooks)
 
 [![Click to Watch Demo](figures/knowledge_assistant.png)](https://youtu.be/WarXeIrMPQI)
 
@@ -190,3 +197,4 @@ Connect: [LinkedIn](https://www.linkedin.com/in/matheus-chaud) • [GitHub](http
 _My next project will focus on exploring **Graph RAG**, so stay tuned!_
 
 ---
+
